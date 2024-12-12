@@ -15,4 +15,4 @@ The exercise mimics real-life parking rules, using time, day, and street regulat
 
 * lab 10
 
-This section is my favorite because it demonstrates how to structure and organize data efficiently using two-dimensional vectors, enabling a clear and intuitive way to represent California's county population data.
+This section is my favorite because it demonstrates how to structure and organize data efficiently using two-dimensional vectors, enabling a clear and intuitive way to represent California's county population data. and It highlights modular programming principles, which emphasize the importance of breaking down large, complex programs
